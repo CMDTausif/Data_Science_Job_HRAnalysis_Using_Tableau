@@ -21,3 +21,17 @@ The user, an HR recruiter, seeks to get precise information on data science and 
 
 **4. What are the highest average salary and total remote ratio based on different experience levels, company size, and different job titles?**
 
+## How the Business Questions are answered 
+
+**Q1: Average Salaries by Job Roles and Experience Levels**
+
+**Visualization:** Horizontal bar graph with AVG(Salary in USD) on columns and Experience Level & Job Title on rows.
+
+**Steps:**
+
+1. Use Average as the measure for salary.
+
+2. Add salary to color and label in the Marks area for better differentiation.
+
+**Insight:** Clearly shows differences in average salaries across experience levels and job roles.
+
