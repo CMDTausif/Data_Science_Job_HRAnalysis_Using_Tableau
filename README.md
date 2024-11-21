@@ -55,4 +55,17 @@ The user, an HR recruiter, seeks to get precise information on data science and 
 
 ![image](https://github.com/user-attachments/assets/427a4233-5b2f-4ddf-baba-9da01cd27d67)
 
+## The Final Dashboard
 
+![Dashboard_DataScience_Finale1](https://github.com/user-attachments/assets/f4c04a37-639c-4572-8c1a-911914712ab2)
+
+The below image explained how each and every business questions have been solved 
+
+![Explained ](https://github.com/user-attachments/assets/e60b5aba-aa2a-4d96-a40a-ea3b34065aed)
+
+
+## Tools Used:
+
+**CSV:** To store and access raw dataset information.
+
+**Tableau:** To create interactive visualizations and dashboards.
