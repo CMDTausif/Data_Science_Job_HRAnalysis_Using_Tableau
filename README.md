@@ -27,7 +27,7 @@ The user, an HR recruiter, seeks to get precise information on data science and 
 
 **Visualization:** Horizontal bar graph between Average salaries, Job Roles and Experience Level.
 
-**Insight:** Clearly shows differences in average salaries across experience levels and job roles.
+**Insight:**  Showed average salaries (USD) for different data science job roles across experience levels. Senior-level professionals consistently earned the highest salaries.
 
 ![image](https://github.com/user-attachments/assets/eb4eda87-2609-4664-947b-c3b950a7ebdc)
 
@@ -35,7 +35,7 @@ The user, an HR recruiter, seeks to get precise information on data science and 
 
 **Visualization:** Map chart with total sum of salaries in usd.
 
-**Insight:** Highlights the top countries for major job roles and their total salaries.
+**Insight:** Highlighted the total sum of salaries (USD) for various job roles across different company locations, with countries like the US showing significant contributions.
 
 ![image](https://github.com/user-attachments/assets/bce78c28-10e4-4686-b367-f15a701fc9da)
 
@@ -43,7 +43,16 @@ The user, an HR recruiter, seeks to get precise information on data science and 
 
 **Visualization:** Bar chart with Employee Residence and filtering the company size.
 
-**Insight:** Identifies the top 5 employee residence locations based on company size.
+**Insight:** identified the top 5 employee residence locations based on company size, with large companies hiring predominantly from countries like the US, India, and Germany.
 
 ![image](https://github.com/user-attachments/assets/d4a31719-0bd3-42b0-a8d2-18503a6f3044)
+
+**Q4: Highest Average Salary and Remote Ratio**
+
+**Visualization:** Dual-axis line graph with average of salaries in USD and the sum of Remote Ratio.
+
+**Insight:** Analyzed how average salaries and remote work ratios vary by experience level, job title, and company size. Senior professionals in large companies with remote-friendly policies earned the highest average salaries.
+
+![image](https://github.com/user-attachments/assets/427a4233-5b2f-4ddf-baba-9da01cd27d67)
+
 
