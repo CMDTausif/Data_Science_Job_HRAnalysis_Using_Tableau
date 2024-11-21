@@ -31,4 +31,19 @@ The user, an HR recruiter, seeks to get precise information on data science and 
 
 ![image](https://github.com/user-attachments/assets/eb4eda87-2609-4664-947b-c3b950a7ebdc)
 
+**Q2: Total Sum of Salaries by Job Roles and Company Location**
+
+**Visualization:** Map chart with total sum of salaries in usd.
+
+**Insight:** Highlights the top countries for major job roles and their total salaries.
+
+![image](https://github.com/user-attachments/assets/bce78c28-10e4-4686-b367-f15a701fc9da)
+
+**Q3: Top 5 Employee Residences by Company Size**
+
+**Visualization:** Bar chart with Employee Residence and filtering the company size.
+
+**Insight:** Identifies the top 5 employee residence locations based on company size.
+
+![image](https://github.com/user-attachments/assets/d4a31719-0bd3-42b0-a8d2-18503a6f3044)
 
