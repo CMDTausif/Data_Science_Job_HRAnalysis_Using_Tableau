@@ -64,8 +64,14 @@ The below image explained how each and every business questions have been solved
 ![Explained ](https://github.com/user-attachments/assets/e60b5aba-aa2a-4d96-a40a-ea3b34065aed)
 
 
-## Tools Used:
+## Tools Used-
 
 **CSV:** To store and access raw dataset information.
 
 **Tableau:** To create interactive visualizations and dashboards.
+
+## Conclusion-
+
+This project demonstrates the use of Tableau to analyze and visualize comprehensive data on data science job salaries. By addressing key business questions, the dashboard provides actionable insights for HR recruiters to understand salary trends, employee demographics, and workplace dynamics. The visualizations highlight critical factors such as the impact of experience level, company size, job roles, and remote work policies on salaries.
+
+This analysis showcases how data visualization tools can transform raw data into meaningful insights, supporting informed decision-making in recruitment and workforce planning.
