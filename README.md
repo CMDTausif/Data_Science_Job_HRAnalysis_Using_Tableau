@@ -25,13 +25,10 @@ The user, an HR recruiter, seeks to get precise information on data science and 
 
 **Q1: Average Salaries by Job Roles and Experience Levels**
 
-**Visualization:** Horizontal bar graph with AVG(Salary in USD) on columns and Experience Level & Job Title on rows.
-
-**Steps:**
-
-1. Use Average as the measure for salary.
-
-2. Add salary to color and label in the Marks area for better differentiation.
+**Visualization:** Horizontal bar graph between Average salaries, Job Roles and Experience Level.
 
 **Insight:** Clearly shows differences in average salaries across experience levels and job roles.
+
+![image](https://github.com/user-attachments/assets/eb4eda87-2609-4664-947b-c3b950a7ebdc)
+
 
